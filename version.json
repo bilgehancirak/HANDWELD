@@ -1,5 +1,5 @@
 {
-  "esp32_version": "20260621.0002",
+  "esp32_version": "20260621.0003",
   "nextion_version": "20260620.2145",
   "esp32_url": "https://raw.githubusercontent.com/bilgehancirak/HANDWELD/main/firmware/firmware.bin",
   "nextion_url": "https://raw.githubusercontent.com/bilgehancirak/HANDWELD/main/firmware/nextion.tft"
